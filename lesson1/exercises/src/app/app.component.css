@@ -1,0 +1,13 @@
+.body {
+    background-color: rgb(238, 246, 26);
+}
+hr {
+    text-align: center;
+    height: 9px;
+
+}
+img{
+    text-align: center;
+    width: 50%;
+    height: auto;
+}
